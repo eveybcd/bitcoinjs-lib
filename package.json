@@ -1,6 +1,6 @@
 {
-  "name": "bitcoinjs-lib",
-  "version": "3.3.2",
+  "name": "@btcd.io/bitcoinjs-lib",
+  "version": "3.3.4",
   "description": "Client-side Bitcoin JavaScript library",
   "main": "./src/index.js",
   "engines": {
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitcoinjs/bitcoinjs-lib.git"
+    "url": "https://github.com/eveybcd/bitcoinjs-lib.git"
   },
   "files": [
     "src"

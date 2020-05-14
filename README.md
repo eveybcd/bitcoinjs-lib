@@ -30,13 +30,13 @@ Master is not stable; it is our development branch, and [only tagged releases ma
 
 ## Installation
 ``` bash
-npm install bitcoinjs-lib
+npm i @btcd.io/bitcoinjs-lib
 ```
 
 ## Setup
 ### Node.js
 ``` javascript
-var bitcoin = require('bitcoinjs-lib')
+var bitcoin = require('@btcd.io/bitcoinjs-lib')
 ```
 
 ### Browser
@@ -47,7 +47,7 @@ These steps are advisory only,  and may not be suitable for your application.
 
 For your project, create an `index.js` file
 ``` javascript
-let bitcoin = require('bitcoinjs-lib')
+let bitcoin = require('@btcd.io/bitcoinjs-lib')
 
 // your code here
 function myFunction () {
